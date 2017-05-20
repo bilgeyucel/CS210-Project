@@ -1,0 +1,298 @@
+ID,movieName,distributionCompany,releaseSeason,seasonNum,releaseMonth,releaseYear,releaseDate,totalRevenue,ticketsSold,director,genre,Genre_Enum,moreThanMil
+1,Dağ 2,Mars Dağıtım,Fall,4,11,2016,11/4/2016,40627092,3590683,Alper Çağlar,Drama,6,Y
+2,Kardeşim Benim,Mars Dağıtım,Winter,1,1,2016,1/15/2016,23132614,2070692,Mert Baykal,Comedy,4,Y
+3,Dedemin Fişi,UIP.,Winter,1,1,2016,1/22/2016,22912770,2015665,Meltem Bozoflu,Comedy,4,Y
+4,Osman Pazarlama,Warner Bros.,Winter,1,2,2016,2/19/2016,22736060,1983777,Togan Gökbakar,Comedy,4,Y
+5,Görümce,Mars Dağıtım,Winter,1,12,2016,12/2/2016,22203418,1911204,Kıvanç Baruonu,Comedy,4,Y
+6,Batman v Superman: Adaletin Şafağı,Warner Bros.,Spring,2,3,2016,3/25/2016,19429872,1461576,Zack Snyder,Action,1,Y
+7,Kolpaçino 3.Devre,UIP.,Spring,2,3,2016,3/11/2016,16490847,1412639,Şafak Sezer,Comedy,4,Y
+8,İkimizin Yerine,UIP.,Fall,4,10,2016,10/21/2016,15542286,1373260,Umur Turagay,Romance,11,Y
+9,Kocan Kadar Konuş: Diriliş,UIP.,Winter,1,1,2016,1/1/2016,15901106,1332907,Kıvanç Baruonu,Romance,11,Y
+10,Çakallarla Dans 4,UIP.,Fall,4,11,2016,11/25/2016,15202299,1351247,Murat Seker,Comedy,4,Y
+11,Buz Devri 5: Büyük Çarpışma,TME.,Summer,3,7,2016,7/15/2016,14649410,1305189,Mike Thurmeier,Animation,3,Y
+12,Ekşi Elmalar,Mars Dağıtım,Fall,4,10,2016,10/28/2016,13915323,1219395,Yılmaz Erdoğan,Drama,6,Y
+13,Kaptan Amerika: Kahramanların Savaşı,UIP.,Spring,2,5,2016,5/6/2016,14760714,1165583,Anthony Russo,Action,1,Y
+14,Suikast,Mars Dağıtım,Summer,3,8,2016,8/26/2016,12372556,1123237,Dennis Gansel,Action,1,Y
+15,Deadpool,TME.,Winter,1,2,2016,2/12/2016,14194089,1121149,Tim Miller,Action,1,Y
+16,İftarlık Gazoz,Mars Dağıtım,Winter,1,1,2016,1/29/2016,12319801,1031094,Yüksel Aksu,Drama,6,Y
+17,Delibal,Warner Bros.,Winter,1,12,2015,12/25/2015,16805210,1465092,Ali Bilgin,Romance,11,Y
+18,Suicide Squad: Gerçek Kötüler,Warner Bros.,Summer,3,8,2016,8/12/2016,11998434,956223,David Ayer,Action,1,N
+19,Küçük Esnaf,Mars Dağıtım,Spring,2,4,2016,4/8/2016,9017874,832050,Bedran Güzel,Comedy,4,N
+20,Doktor Strange,UIP.,Fall,4,11,2016,11/4/2016,11232742,827731,Scott Derrickson,Action,1,N
+21,İkinci Şans,Mars Dağıtım,Fall,4,11,2016,11/18/2016,9062423,818986,Özcan Deniz,Romance,11,N
+22,Bir Baba Hindu,Mars Dağıtım,Fall,4,9,2016,9/30/2016,8350355,769260,Sermiyan Midyat,Comedy,4,N
+23,Sihirbazlar Çetesi 2,TME.,Summer,3,6,2016,6/10/2016,8744056,747288,Jon M. Chu,Action,1,N
+24,İyi Bir Dinozor,UIP.,Winter,1,1,2016,1/15/2016,8898180,718008,Peter Sohn,Animation,3,N
+25,Diriliş,TME.,Winter,1,1,2016,1/22/2016,8851055,632689,Alejandro Gonzalez Inarritu,History,8,N
+26,Bizans Oyunları - Geym of Bizans,Mars Dağıtım,Winter,1,1,2016,1/15/2016,6900208,620380,Gani Müjde,Comedy,4,N
+27,Kayıp Balık Dori,UIP.,Fall,4,9,2016,9/2/2016,7408151,617320,Andrew Stanton,Animation,3,N
+28,Cehennem,Warner Bros.,Fall,4,10,2016,10/14/2016,7622998,600992,Ron Howard,Action,1,N
+29,Warcraft,UIP.,Summer,3,6,2016,6/3/2016,7746558,599787,Duncan Jones,Fantasy,7,N
+30,"Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",Warner Bros.,Fall,4,11,2016,11/18/2016,7668698,552082,David Yates,Fantasy,7,N
+31,X-Men: Apocalypse,TME.,Spring,2,5,2016,5/19/2016,7172881,546829,Bryan Singer,Action,1,N
+32,Hz. Muhammed: Allah'ın Elçisi,ChF.,Fall,4,10,2016,10/28/2016,5050444,452066,Majid Majidi,History,8,N
+33,Angry Birds Film,Warner Bros.,Spring,2,5,2016,5/13/2016,5151909,448978,"Clay Kaytis, Fergal Reilly",Comedy,4,N
+34,Düğün Dernek 2: Sünnet,Mars Dağıtım,Winter,1,12,2015,12/4/2015,69422924,6073364,Selçuk Aydemir,Comedy,4,Y
+35,Mucize,Pin..,Winter,1,1,2015,1/1/2015,39418944,3737605,Mahsun Kırmızıgül,Drama,6,Y
+36,Hızlı ve Öfkeli 7,UIP.,Spring,2,4,2015,4/3/2015,32132000,2961089,James Wan,Action,1,Y
+37,Kocan Kadar Konuş,UIP.,Spring,2,3,2015,3/20/2015,20895151,1930677,Kıvanc Baruonu,Romance,11,Y
+38,Ali Baba ve 7 Cüceler,Mars Dağıtım,Fall,4,11,2015,11/13/2015,21859347,1828311,Cem Yılmaz,Comedy,4,Y
+39,Selam: Bahara Yolculuk,Mars Dağıtım,Spring,2,3,2015,3/13/2015,13067237,1683497,Hamdi Alkan,History,8,Y
+40,Bana Masal Anlatma,UIP.,Winter,1,1,2015,1/9/2015,16883440,1576979,Burak Aksak,Romance,11,Y
+41,Aşk Sana Benzer,Mars Dağıtım,Winter,1,1,2015,1/23/2015,14532504,1406620,A. Taner Elhan,Romance,11,Y
+42,Yenilmezler: Ultron Çağı,UIP.,Spring,2,5,2015,5/1/2015,15618775,1284848,Joss Whedon,Science - Fiction ,12,Y
+43,Yapışık Kardeşler,Mars Dağıtım,Winter,1,1,2015,1/30/2015,10387448,1014630,İlker Ayrık,Comedy,4,Y
+44,Niyazi Gül Dörtnala,UIP.,Spring,2,5,2015,5/8/2015,10347281,994016,Ata Demirer,Comedy,4,N
+45,Minyonlar,UIP.,Fall,4,9,2015,9/4/2015,11680017,964454,Kyle Balda,Animation,3,N
+46,Sevimli Tehlikeli,Warner Bros.,Winter,1,2,2015,2/6/2015,9186465,911833,Özcan Deniz,Romance,11,N
+47,Kara Bela,Mars Dağıtım,Fall,4,9,2015,9/18/2015,10132789,892643,Burak Aksak,Comedy,4,N
+48,Grinin Elli Tonu,UIP.,Winter,1,2,2015,2/13/2015,10462201,875585,Sam Tylor-johnson,Romance,11,N
+49,Star Wars: Güç Uyanıyor,UIP.,Winter,1,12,2015,12/17/2015,17170964,1149329,J. J. Abrams,Science - Fiction ,12,Y
+50,Son Mektup,Pin..,Spring,2,3,2015,3/18/2015,6514906,810138,Özhan Eren,History,8,N
+51,Son Umut,Mars Dağıtım,Winter,1,12,2014,12/26/2014,14312350,1278278,Russell Crowe,Drama,6,Y
+52,Labirent: Alev Deneyleri,TME.,Fall,4,9,2015,9/18/2015,9134547,752273,Wes Ball,Action,1,N
+53,Açlık Oyunları: Alaycı Kuş Bölüm 2,TME.,Fall,4,11,2015,11/20/2015,9670654,745338,Francis Lawrance,Action,1,N
+54,Mission: Impossible - Rogue Nation,UIP.,Summer,3,7,2015,7/31/2015,8520107,719045,Christopher McQuarrie,Action,1,N
+55,Geniş Aile: Yapıştır,ChF.,Fall,4,10,2015,10/9/2015,8092702,718047,Ömer Uğur,Comedy,4,N
+56,Yusuf & Yusuf,Warner Bros.,Winter,1,12,2014,12/26/2014,9137047,862751,Ersoy Güler,Comedy,4,N
+57,Spectre,Warner Bros.,Fall,4,11,2015,11/6/2015,8231360,614444,Sam Mendes,Action,1,N
+58,6 Süper Kahraman,UIP.,Winter,1,1,2015,1/16/2015,7521144,610651,Don Hall,Animation,3,N
+59,Jurassic World,UIP.,Summer,3,6,2015,6/12/2015,7546482,602277,Colin Trevorrow,Adventure,2,N
+60,Recep İvedik 4,Tig..,Winter,1,2,2014,2/21/2014,72103217,7369098,Togan Gökbakar,Comedy,4,Y
+61,Eyyvah Eyvah 3,UIP.,Winter,1,1,2014,1/31/2014,35022168,3414212,Hakan Algül,Comedy,4,Y
+62,Düğün Dernek,UIP.,Winter,1,12,2013,12/6/2013,68917965,6980070,Selçuk Aydemir,Comedy,4,Y
+63,Pek Yakında,Warner Bros.,Fall,4,10,2014,10/2/2014,24684790,2187278,Cem Yılmaz,Comedy,4,Y
+64,Unutursam Fısılda,Mars Dağıtım,Fall,4,10,2014,10/29/2014,18819582,1720895,Çağan Irmak,Romance,11,Y
+65,Deliha,UIP.,Fall,4,11,2014,11/14/2014,16808380,1596119,Hakan Algül,Comedy,4,Y
+66,Birleşen Gönüller,ChF.,Fall,4,10,2014,10/24/2014,12654938,1589135,Hasan Kıraç,Religious,10,Y
+67,Çakallarla Dans 3: Sıfır Sıkıntı,Mars Dağıtım,Winter,1,12,2014,12/5/2014,17213319,1666330,Murat Seker,Comedy,4,Y
+68,İncir Reçeli 2,UIP.,Fall,4,10,2014,10/17/2014,14586685,1378517,Aytaç Ağırlar,Drama,6,Y
+69,Patron Mutlu Son İstiyor,UIP.,Winter,1,1,2014,1/1/2014,14107858,1415960,Kıvanç baruonu,Comedy,4,Y
+70,Hobbit: Beş Ordunun Savaşı,Warner Bros.,Winter,1,12,2014,12/17/2014,20116916,1647727,Peter Jackson,Fantasy,7,Y
+71,Hadi İnşallah,Warner Bros.,Fall,4,11,2014,11/28/2014,12979455,1255390,Ali Taner Baltacı,Comedy,4,Y
+72,Nuh: Büyük Tufan,UIP.,Spring,2,4,2014,4/3/2014,13663068,1178671,Darren Aronofsky,Adventure,2,Y
+73,Karlar Ülkesi,UIP.,Winter,1,1,2014,1/17/2014,13272160,1220468,Chris Buck,Animation,3,Y
+74,Mandıra Filozofu,CF.,Spring,2,4,2014,4/4/2014,9288806,956571,Müfit Can Saçıntı,Comedy,4,N
+75,bi küçük Eylül meselesi,Warner Bros.,Winter,1,2,2014,2/14/2014,9396342,924709,Kerem Deren,Romance,11,N
+76,Lucy,UIP.,Summer,3,8,2014,8/8/2014,9742712,867232,Luc Besson,Science - Fiction ,12,N
+77,300: Bir İmparatorluğun Yükselişi,Warner Bros.,Spring,2,3,2014,3/7/2014,10206484,865412,Noam Murro,Adventure,2,N
+78,Dabbe: Zehr-i Cin,Warner Bros.,Fall,4,9,2014,9/12/2014,8349072,837791,Hasan Karacadağ,Horror,9,N
+79,Açlık Oyunları: Alaycı Kuş Bölüm 1,TME.,Fall,4,11,2014,11/21/2014,9025995,811915,Francis Lawrance,Adventure,2,N
+80,Transformers: Kayıp Çağ,UIP.,Summer,3,6,2014,6/27/2014,8452821,741601,Michael Bay,Action,1,N
+81,Yıldızlararası,Warner Bros.,Fall,4,11,2014,11/7/2014,10123923,749553,Christopher Nolan,Science - Fiction ,12,N
+82,Cehennem Melekleri 3,MVZ.,Summer,3,8,2014,8/15/2014,6985717,694845,Patrick hughes,Action,1,N
+83,İnanılmaz Örümcek-Adam 2,Warner Bros.,Spring,2,4,2014,4/25/2014,7663076,652628,Marc Webb,Science - Fiction ,12,N
+84,Maymunlar Cehennemi: Şafak Vakti,TME.,Summer,3,7,2014,7/11/2014,7012474,626476,Matt Reeves,Science - Fiction ,12,N
+85,Çılgın Dersane 3,Tig..,Winter,1,1,2014,1/17/2014,5017192,548302,Kamil Çetin,Comedy,4,N
+86,Düğün Dernek,UIP.,Winter,1,12,2013,12/6/2013,68917965,6980070,Selçuk Aydemir,Comedy,4,Y
+87,CM101MMXI Fundamentals,Tig..,Winter,1,1,2013,1/3/2013,37298938,3842535,Cem Yılmaz,Comedy,4,Y
+88,Celal ile Ceren,Tig..,Winter,1,1,2013,1/18/2013,26601627,2853772,Togan Gökbakar,Comedy,4,Y
+89,Kelebeğin Rüyası,UIP.,Winter,1,2,2013,2/22/2013,20898864,2167456,yılmaz Erdoğan,Drama,6,Y
+90,Selam,Warner Bros.,Spring,2,3,2013,3/29/2013,14910817,2145545,Levent Demirkale,Religious,10,Y
+91,Hükümet Kadın 2,UIP.,Fall,4,11,2013,11/8/2013,14536066,1530071,Sermiyan Midyat,Comedy,4,Y
+92,Romantik Komedi 2: Bekarlığa Veda,Pin..,Winter,1,2,2013,2/14/2013,14623156,1507603,Erol Özlevi,Romance,11,Y
+93,Hükümet Kadın,UIP.,Winter,1,2,2013,2/1/2013,12999529,1401665,Sermiyan Midyat,Comedy,4,Y
+94,Benim Dünyam,UIP.,Fall,4,10,2013,10/25/2013,13868774,1382471,Uğur Yücel,Drama,6,Y
+95,Hızlı ve Öfkeli 6,UIP.,Spring,2,5,2013,5/24/2013,11225845,1180105,Justin Lin,Action,1,Y
+96,Su ve Ateş,UIP.,Fall,4,11,2013,11/15/2013,11467223,1215086,Özcan Deniz,Romance,11,Y
+97,Şirinler 2,Warner Bros.,Summer,3,8,2013,8/1/2013,11528616,1120016,Raja Gosnel,Animation,3,Y
+98,Hobbit: Smaug'un Çorak Toprakları,Warner Bros.,Winter,1,12,2013,12/13/2013,14572407,1210949,Peter Jackson,Fantasy,7,Y
+99,Açlık Oyunları 2: Ateşi Yakalamak,Tig..,Fall,4,11,2013,11/22/2013,9214037,864780,Francis Lawrance,Adventure,2,N
+100,Dünya Savaşı Z,UIP.,Summer,3,6,2013,6/21/2013,8379741,757886,Marc Forster,Action,1,N
+101,Iron Man 3,UIP.,Spring,2,5,2013,5/3/2013,8208682,716817,Shane black,Science - Fiction ,12,N
+102,Çılgın Hırsız 2,UIP.,Fall,4,10,2013,10/4/2013,8252085,697180,Pierre Coffin,Animation,3,N
+103,Çanakkale: Yolun Sonu,Warner Bros.,Spring,2,3,2013,3/15/2013,5372309,670925,Kemal Uzun,History,8,N
+104,Thor: Karanlık Dünya,UIP.,Fall,4,11,2013,11/1/2013,7528083,615195,Alan Taylor,Science - Fiction ,12,N
+105,Tamam mıyız?,UIP.,Fall,4,11,2013,11/29/2013,4976745,500835,Çağan Irmak,Comedy,4,N
+106,Wolverine,Tig..,Summer,3,7,2013,7/26/2013,5121513,456897,James Mangold,Science - Fiction ,12,N
+107,Efsane Beşli,UIP.,Winter,1,1,2013,1/11/2013,4853465,432260,Peter Ramsey,Animation,3,N
+108,Dabbe: Cin Çarpması,UIP.,Summer,3,8,2013,8/2/2013,3751364,422747,Hasan Karacadağ,Horror,9,N
+109,The Hangover 3: Felekten Bir Gece,Warner Bros.,Spring,2,5,2013,5/31/2013,4377506,421424,Todd Phillips,Comedy,4,N
+110,el-CİN,UIP.,Spring,2,4,2013,4/5/2013,3646064,421052,Hasan Karacadağ,Horror,9,N
+111,Fetih 1453,Tig..,Winter,1,2,2012,2/16/2012,55744699,6572618,Faruk Aksoy,History,8,Y
+112,Evim Sensin,UIP.,Fall,4,11,2012,11/2/2012,24483088,2703241,Özcan Deniz,Romance,11,Y
+113,Berlin Kaplanı,UIP.,Winter,1,1,2012,1/27/2012,18248363,1983077,Ata Demirer,Comedy,4,Y
+114,Buz Devri 4: Kıtalar Ayrılıyor,Tig..,Summer,3,6,2012,6/29/2012,18551768,1883004,Steve Martino,Animation,3,Y
+115,Sen Kimsin?,UIP.,Spring,2,3,2012,3/2/2012,14218718,1592471,Ozan Açıktan,Comedy,4,Y
+116,Alacakaranlık Efsanesi: Şafak Vakti Bölüm 2,Tig..,Fall,4,11,2012,11/16/2012,13101986,1417752,"Bill Condon,",Action,1,Y
+117,Sümela'nın Şifresi Temel,Pin..,Winter,1,12,2011,12/16/2011,15473417,1731519,Adem Kılıç,Comedy,4,Y
+118,Hobbit: Beklenmedik Yolculuk,Warner Bros.,Winter,1,12,2012,12/14/2012,12475206,1064089,Peter Jackson,Fantasy,7,Y
+119,Çanakkale 1915,Tig..,Fall,4,10,2012,10/18/2012,7607756,918181,Yeşim Segin,History,8,N
+120,Moskova'nın Şifresi Temel,Pin..,Fall,4,11,2012,11/23/2012,7583639,841124,Adem Kılıç,Comedy,4,N
+121,Çakallarla Dans 2: Hastasıyız Dede,Warner Bros.,Winter,1,12,2012,12/7/2012,8576507,929739,Murat Seker,Comedy,4,N
+122,Kara Şövalye Yükseliyor,Warner Bros.,Summer,3,7,2012,7/27/2012,8429943,799586,Christopher Nolan,Crime,5,N
+123,Uzun Hikaye,UIP.,Fall,4,10,2012,10/12/2012,6746225,725518,Osman sınav,Comedy,4,N
+124,Çizmeli Kedi,UIP.,Winter,1,1,2012,1/13/2012,7273265,697522,Chris Miller,Animation,3,N
+125,Yenilmezler,UIP.,Spring,2,5,2012,5/4/2012,7660682,666520,Joss Whedon,Science - Fiction ,12,N
+126,Açlık Oyunları,Tig..,Spring,2,3,2012,3/23/2012,6101576,650382,Francis Lawrance,Action,1,N
+127,Skyfall,Warner Bros.,Fall,4,11,2012,11/2/2012,7048125,635649,Sam Mendes,Action,1,N
+128,Cehennem Melekleri 2,MVZ.,Summer,3,8,2012,8/17/2012,5497954,586850,Simon West,Action,1,N
+129,Kurtuluş Son Durak,UIP.,Winter,1,1,2012,1/6/2012,5393534,583880,Yusuf Pirhasan,Comedy,4,N
+130,Neşeli Ayaklar 2,Warner Bros.,Winter,1,1,2012,1/20/2012,5262862,529866,George miller,Animation,3,N
+131,İnanılmaz Örümcek-Adam,Warner Bros.,Summer,3,7,2012,7/6/2012,5342761,496894,Marc Webb,Science - Fiction ,12,N
+132,Madagaskar 3: Avrupa'nın En Çok Arananları,UIP.,Summer,3,6,2012,6/8/2012,4936620,482540,Eric Darnell,Animation,3,N
+133,Pamuk Prenses ve Avcı,UIP.,Summer,3,6,2012,6/1/2012,3842143,412298,Rupert Sanders,Adventure,2,N
+134,Titanların Öfkesi,Warner Bros.,Spring,2,3,2012,3/30/2012,4302146,384188,Jonathan Liebesman,Fantasy,7,N
+135,Mission: Impossible - Ghost Protocol,UIP.,Winter,1,12,2011,12/23/2011,6399174,640819,Brad Bird,Action,1,N
+136,Eyyvah Eyvah 2,UIP.,Winter,1,1,2011,1/7/2011,36678019,3947988,Hakan algül,Comedy,4,Y
+137,Aşk Tesadüfleri Sever,UIP.,Winter,1,2,2011,2/4/2011,21910790,2418090,Ömer Faruk Sorak,Romance,11,Y
+138,Allah'ın Sadık Kulu: Barla,Özen.,Fall,4,11,2011,11/4/2011,15669214,2227113,Orhan Öztürk Esin,Religious,10,Y
+139,Kurtlar Vadisi: Filistin,Özen.,Winter,1,1,2011,1/28/2011,17293396,2028057,zübeyr Şaşmaz,Action,1,Y
+140,Alacakaranlık Efsanesi: Şafak Vakti Bölüm 1,Tig..,Fall,4,11,2011,11/18/2011,12209108,1379487,Bill condon,Fantasy,7,Y
+141,Anadolu Kartalları,Tig..,Fall,4,10,2011,10/28/2011,10329587,1195129,Ömer Vargı,Drama,6,Y
+142,Karayip Korsanları: Gizemli Denizlerde,UIP.,Spring,2,5,2011,5/19/2011,13135550,1171979,Rob Marshall,Fantasy,7,Y
+143,Şirinler,Warner Bros.,Summer,3,8,2011,8/5/2011,11540653,1149843,Raja Gosnell,Animation,3,Y
+144,Dedemin İnsanları,Warner Bros.,Fall,4,11,2011,11/25/2011,11067654,1204183,Çağan Irmak,Drama,6,Y
+145,Hür Adam: Bediuzzaman Said Nursi,Özen.,Winter,1,1,2011,1/7/2011,7320404,955519,Mehmet Tanrısever,Religious,10,N
+146,Ya Sonra,Warner Bros.,Winter,1,2,2011,2/25/2011,7559500,849743,özcan Deniz,Drama,6,N
+147,Harry Potter ve Ölüm Yadigarları: Bölüm 2,Warner Bros.,Summer,3,7,2011,7/13/2011,7925707,798414,David Yates,Fantasy,7,N
+148,Kolpaçino: Bomba,Warner Bros.,Spring,2,3,2011,3/11/2011,6559712,736320,Şafak Sezer,Comedy,4,N
+149,Arabalar 2,UIP.,Summer,3,8,2011,8/19/2011,7039916,690709,John Lasseter,Animation,3,N
+150,Sümela'nın Şifresi Temel,Pin..,Winter,1,12,2011,12/16/2011,15473417,1731519,Adem Kılıç,Comedy,4,Y
+151,Hızlı ve Öfkeli 5: Rio Soygunu,UIP.,Spring,2,4,2011,4/29/2011,6037189,665624,Justin Lin,Action,1,N
+152,Transformers: Ay'ın Karanlık Yüzü,UIP.,Summer,3,6,2011,6/29/2011,6859258,646540,Michael Bay,Science - Fiction ,12,N
+153,Ölümsüzler,Pin..,Fall,4,11,2011,11/11/2011,6015023,541438,Tarsem singh,Fantasy,7,N
+154,Behzat Ç. Seni Kalbime Gömdüm,Özen.,Fall,4,10,2011,10/28/2011,5069982,528421,Serdar akar,Drama,6,N
+155,Kaybedenler Kulübü,Tig..,Spring,2,3,2011,3/25/2011,4558350,485580,tolga Örnek,Drama,6,N
+156,Musallat 2: Lanet,Özen.,Winter,1,12,2011,12/2/2011,4401327,514331,Alper Mestçi,Horror,9,N
+157,Sherlock Holmes: Gölge Oyunları,Warner Bros.,Winter,1,12,2011,12/16/2011,7227400,715983,Guy Ritchie,Adventure,2,N
+158,Entelköy Efeköy'e Karşı,Tig..,Winter,1,12,2011,12/2/2011,4292096,520116,Yüksel aksu,Comedy,4,N
+159,Ayı Yogi,Warner Bros.,Winter,1,1,2011,1/21/2011,3983688,405176,Eric Brevig,Animation,3,N
+160,Son Durak 5,Warner Bros.,Fall,4,9,2011,9/9/2011,4017226,390877,Steven Quale,Thriller,13,N
+161,New York'ta Beş Minare,Pin..,Fall,4,11,2010,11/5/2010,31645541,3474495,Mahsun Kırmızıgül,Drama,6,Y
+162,Recep İvedik 3,Özen.,Winter,1,2,2010,2/12/2010,28712099,3326084,Togan gökbakar,Comedy,4,Y
+163,Eyyvah Eyvah,UIP.,Winter,1,2,2010,2/26/2010,21723367,2459815,Hakan Algül,Comedy,4,Y
+164,Yahşi Batı,UIP.,Winter,1,1,2010,1/1/2010,20856555,2323061,Cem yılmaz,Comedy,4,Y
+165,Av Mevsimi,Warner Bros.,Winter,1,12,2010,12/3/2010,19720427,2116192,Yavuz Turgul,Crime,5,Y
+166,Avatar,Tig..,Winter,1,12,2009,12/18/2009,26636521,2482991,James Cameron,Science - Fiction ,12,Y
+167,Çok Filim Hareketler Bunlar,MVZ.,Spring,2,3,2010,3/26/2010,9501115,1141844,Ozan Açıktan,Comedy,4,Y
+168,Başlangıç,Warner Bros.,Summer,3,7,2010,7/30/2010,11041118,1103147,Christopher Nolan,Science - Fiction ,12,Y
+169,Alacakaranlık Efsanesi: Tutulma,Tig..,Summer,3,6,2010,6/30/2010,8649021,1041920,David Slade,Fantasy,7,Y
+170,Veda,Tig..,Winter,1,2,2010,2/26/2010,8257823,1028270,Zülfü livaneli,History,8,Y
+171,Dersimiz Atatürk,CF.,Spring,2,3,2010,3/19/2010,5322599,861468,Hamdi Alkan,History,8,N
+172,Kutsal Damacana 2: İtmen,Özen.,Winter,1,1,2010,1/22/2010,6845747,802547,Korhan Bozkurt,Comedy,4,N
+173,Harry Potter ve Ölüm Yadigarları: Bölüm 1,Warner Bros.,Fall,4,11,2010,11/17/2010,7557967,798432,david Yates,Fantasy,7,N
+174,Ejder Kapanı,UIP.,Winter,1,1,2010,1/22/2010,6716187,750913,Uğur Yücel,Action,1,N
+175,Romantik Komedi,Pin..,Winter,1,2,2010,2/5/2010,6103697,666238,Ketche,Romance,11,N
+176,Şrek: Sonsuza Dek Mutlu,UIP.,Spring,2,5,2010,5/28/2010,6035217,579137,Mike Mitchell,Animation,3,N
+177,Pers Prensi: Zamanın Kumları,UIP.,Spring,2,5,2010,5/21/2010,4933804,547200,Mike Newell,Fantasy,7,N
+178,Testere 3D,Warner Bros.,Fall,4,11,2010,11/12/2010,6072415,524703,Kevin Greutart,Horror,9,N
+179,Robin Hood,UIP.,Spring,2,5,2010,5/14/2010,4581236,492484,Ridley Scott,Adventure,2,N
+180,Eşrefpaşalılar,MVZ.,Spring,2,3,2010,3/5/2010,3065683,487478,Hüdaverdi Yavuz,Drama,6,N
+181,Titanların Savaşı,Warner Bros.,Spring,2,4,2010,4/2/2010,4811400,476597,Louis Laterrier,Fantasy,7,N
+182,Son Hava Bükücü,UIP.,Summer,3,7,2010,7/23/2010,4900901,438639,M. Night Shmayalan,Fantasy,7,N
+183,Turist (2010),Pin..,Winter,1,12,2010,12/10/2010,5015436,477377,Donnersmack,Action,1,N
+184,Alis Harikalar Diyarında,UIP.,Spring,2,3,2010,3/5/2010,3754099,335819,Tim burton,Fantasy,7,N
+185,Oyuncak Hikayesi 3,UIP.,Summer,3,7,2010,7/2/2010,3672533,337599,Lee Unkrich,Animation,3,N
+186,Resident Evil: Ölümden Sonra,Pin..,Fall,4,9,2010,9/10/2010,3688813,331700,Paul W. S. Anderson,Action,1,N
+187,Sihirbazın Çırağı,UIP.,Summer,3,7,2010,7/16/2010,2780227,314188,Jon Turtletaub,Fantasy,7,N
+188,Iron Man 2,UIP.,Spring,2,5,2010,5/7/2010,2743085,294602,Jon Favreu,Science - Fiction ,12,N
+189,Sherlock Holmes,Warner Bros.,Winter,1,1,2010,1/15/2010,2828949,269864,Guy Ritchie,Adventure,2,N
+190,Ajan Salt,Warner Bros.,Summer,3,8,2010,8/6/2010,2368052,252612,Phillip noyce,Action,1,N
+191,Recep İvedik 2,Özen.,Winter,1,2,2009,2/13/2009,33493327,4333144,Togan gökbakar,Comedy,4,Y
+192,Güneşi Gördüm,Pin..,Spring,2,3,2009,3/12/2009,19581629,2566435,Mahsun Kırmızıgül,Drama,6,Y
+193,Nefes: Vatan Sağolsun,MVZ.,Fall,4,10,2009,10/16/2009,19816778,2436780,Levent Semerci,Drama,6,Y
+194,2012,Warner Bros.,Fall,4,11,2009,11/13/2009,13268138,1497017,Roland Emmerich,Adventure,2,Y
+195,Buz Devri 3: Dinozorların Şafağı,Tig..,Summer,3,7,2009,7/1/2009,11448379,1434381,Carlos Saldanha,Animation,3,Y
+196,Alacakaranlık Efsanesi: Yeni Ay,Tig..,Fall,4,11,2009,11/20/2009,10817434,1243754,Chris Weitz,Fantasy,7,Y
+197,Neşeli Hayat,CF.,Fall,4,11,2009,11/27/2009,9661268,1125601,Yılmaz Erdoğan,Drama,6,Y
+198,Kurtlar Vadisi: Gladio,Özen.,Fall,4,11,2009,11/20/2009,6912853,876810,Sadullah Şentürk,Action,1,N
+199,Issız Adam,CF.,Fall,4,11,2008,11/7/2008,23421170,2788550,Çağan ırmak,Drama,6,Y
+200,Avatar,Tig..,Winter,1,12,2009,12/18/2009,26636521,2482991,James Cameron,Science - Fiction ,12,Y
+201,Melekler ve Şeytanlar,Warner Bros.,Spring,2,5,2009,5/15/2009,5976194,705709,ron howard,Crime,5,N
+202,Harry Potter ve Melez Prens,Warner Bros.,Summer,3,7,2009,7/15/2009,5052407,640098,David Yates,Fantasy,7,N
+203,Güz Sancısı,Özen.,Winter,1,1,2009,1/23/2009,4660887,576428,Tomris Giritoğlu,Drama,6,N
+204,Kadri'nin Götürdüğü Yere Git,MVZ.,Winter,1,1,2009,1/16/2009,3760707,516018,Onur Tan,Comedy,4,N
+205,Vali,MVZ.,Winter,1,1,2009,1/9/2009,3559247,488766,Çağatay tosun,Crime,5,N
+206,Benjamin Button'ın Tuhaf Hikayesi,Warner Bros.,Winter,1,2,2009,2/6/2009,4212868,465319,Eric roth,Fantasy,7,N
+207,Kolpaçino,Özen.,Fall,4,10,2009,10/29/2009,3653362,457687,Atıl İnanç,Comedy,4,N
+208,Hızlı ve Öfkeli 4,UIP.,Spring,2,4,2009,4/3/2009,3172155,379827,Justin Lin,Action,1,N
+209,7 Kocalı Hürmüz,CG.,Fall,4,11,2009,11/20/2009,3163176,372294,gülse birsel,Comedy,4,N
+210,Transformers: Yenilenlerin İntikamı,UIP.,Summer,3,6,2009,6/24/2009,2845560,347065,Michael Bay,Science - Fiction ,12,N
+211,Milyoner,ChF.,Winter,1,2,2009,2/27/2009,3097866,338209,Danny Boyle,Drama,6,N
+212,Alacakaranlık,Tig..,Winter,1,1,2009,1/16/2009,2703980,329220,Catherine Hardwicke,Fantasy,7,N
+213,Kehanet,Warner Bros.,Spring,2,4,2009,4/10/2009,2800861,327899,Alex Proyas,Fantasy,7,N
+214,Bay Evet,Warner Bros.,Winter,1,1,2009,1/16/2009,3001032,327348,Peyton Reed,Comedy,4,N
+215,Türkler Çıldırmış Olmalı,UIP.,Fall,4,11,2009,11/27/2009,2617506,317602,Murat aslan,Comedy,4,N
+216,Gecenin Kanatları,Pin..,Winter,1,12,2009,12/11/2009,2865500,341382,Serdar Akar,Drama,6,N
+217,Soysuzlar Çetesi,UIP.,Summer,3,8,2009,8/21/2009,2895934,289454,Quentin Tarantino,Crime,5,N
+218,Recep İvedik,Özen.,Winter,1,2,2008,2/22/2008,30172530,4301693,Togan Gökbakar,Comedy,4,Y
+219,A.R.O.G,UIP.,Winter,1,12,2008,12/5/2008,30424262,3707086,Cem yılmaz,Comedy,4,Y
+220,Muro: Nalet Olsun İçimdeki İnsan Sevgisine,Özen.,Winter,1,12,2008,12/5/2008,18073564,2315902,Zübeyr Şaşmaz,Comedy,4,Y
+221,Issız Adam,CF.,Fall,4,11,2008,11/7/2008,23421170,2788550,Çağan Irmak,Drama,6,Y
+222,Osmanlı Cumhuriyeti,UIP.,Fall,4,11,2008,11/21/2008,11474933,1423303,Gani Müjde,Comedy,4,Y
+223,Mustafa,Warner Bros.,Fall,4,10,2008,10/29/2008,8506941,1101014,Can Dündar,History,8,Y
+224,120,Özen.,Winter,1,2,2008,2/15/2008,5068657,1043831,Özhan Eren,History,8,Y
+225,Maskeli Beşler Kıbrıs,UIP.,Winter,1,1,2008,1/10/2008,6803574,964104,Murat Aslan,Comedy,4,N
+226,Çılgın Dersane Kampta,Özen.,Winter,1,1,2008,1/10/2008,6314199,899314,Faruk Aksoy,Comedy,4,N
+227,O... Çocukları,KenD.,Spring,2,5,2008,5/16/2008,5309235,713840,Murat Saraçoğlu,Drama,6,N
+228,Ulak,UIP.,Winter,1,1,2008,1/25/2008,3983320,523745,Çağan Irmak,History,8,N
+229,Kabadayı,UIP.,Winter,1,12,2007,12/14/2007,15334881,2002631,Ömer Vargı,Drama,6,Y
+230,Testere 5,Warner Bros.,Fall,4,10,2008,10/24/2008,3894672,500256,David Hackl,Horror,9,N
+231,Kara Şövalye,Warner Bros.,Summer,3,7,2008,7/25/2008,3752996,446708,Christopher nolar,Action,1,N
+232,Mumya: Ejder İmparatoru'nun Mezarı,UIP.,Summer,3,8,2008,8/1/2008,3416360,446518,rob cohen,Action,1,N
+233,Dünyanın Merkezine Yolculuk,MVZ.,Summer,3,7,2008,7/18/2008,4278166,437606,Eric Brevig,Adventure,2,N
+234,M.Ö. 10.000,Warner Bros.,Spring,2,3,2008,3/7/2008,3237395,432171,Roland emmerich,Drama,6,N
+235,Ben Efsaneyim,Warner Bros.,Winter,1,1,2008,1/25/2008,3334883,415750,Francis Lawrance,Action,1,N
+236,Avanak Kuzenler,Özen.,Fall,4,9,2008,9/26/2008,2925459,394799,Oğuzhan Tercan,Comedy,4,N
+237,Madagaskar 2,UIP.,Fall,4,11,2008,11/28/2008,3474438,410894,Eric Darnell,Animation,3,N
+238,Aşk Tutulması,MVZ.,Fall,4,10,2008,10/24/2008,2774698,370989,Murat Şeker,Romance,11,N
+239,Büyük Hazine: Sırlar Kitabı,UIP.,Winter,1,1,2008,1/4/2008,2789547,337251,Jon Turteltaub,Adventure,2,N
+240,Semum,Warner Bros.,Winter,1,2,2008,2/8/2008,2248907,334168,Hasan Karacadağ,Horror,9,N
+241,Indiana Jones ve Kristal Kafatası Krallığı,UIP.,Spring,2,5,2008,5/23/2008,2685294,331770,Steven Spielberg,Adventure,2,N
+242,Beyaz Melek,MVZ.,Fall,4,11,2007,11/16/2007,14657214,2032885,Mahsun kırmızıgül,Drama,6,Y
+243,Hancock,Warner Bros.,Summer,3,7,2008,7/4/2008,2603356,326431,Peter Berg,Comedy,4,N
+244,Quantum of Solace,Warner Bros.,Fall,4,11,2008,11/7/2008,2909396,304611,Marc Forster,Action,1,N
+245,Wanted,UIP.,Summer,3,6,2008,6/27/2008,2423364,300082,Timur Bekmambetov,Action,1,N
+246,Iron Man,UIP.,Spring,2,5,2008,5/2/2008,2087956,261693,Jon Fevrau,Science - Fiction ,12,N
+247,Beyaz Melek,MVZ.,Fall,4,11,2007,11/16/2007,14657214,2032885,Mahsun Kırmızıgül,Drama,6,Y
+248,Kabadayı,UIP.,Winter,1,12,2007,12/14/2007,15334881,2002631,Ömer Vargı,Drama,6,Y
+249,Maskeli Beşler: Irak,Özen.,Winter,1,1,2007,1/11/2007,8601108,1239902,Murat Aslan,Comedy,4,Y
+250,Son Osmanlı: Yandım Ali,Özen.,Winter,1,1,2007,1/19/2007,7604959,1087570,Mustafa Şevki doğan,Drama,6,Y
+251,Karayip Korsanları: Dünyanın Sonu,UIP.,Spring,2,5,2007,5/25/2007,7400884,970114,Gore Verbinsski,Fantasy,7,N
+252,300 Spartalı,Warner Bros.,Spring,2,3,2007,3/16/2007,6384398,807443,Zack snyder,Fantasy,7,N
+253,Çılgın Dersane,Warner Bros.,Winter,1,1,2007,1/26/2007,5460861,783199,Faruk aksoy,Comedy,4,N
+254,Örümcek-Adam 3,Warner Bros.,Spring,2,5,2007,5/4/2007,5671787,737889,Sam Raimi,Science - Fiction ,12,N
+255,Harry Potter ve Zümrüdüanka Yoldaşlığı,Warner Bros.,Summer,3,8,2007,8/10/2007,5148927,687224,David Yates,Fantasy,7,N
+256,Şrek 3,UIP.,Summer,3,6,2007,6/15/2007,4883103,663139,chris miller,Animation,3,N
+257,Mutluluk,KenD.,Spring,2,3,2007,3/17/2007,4537217,590106,abdullah oğuz,Drama,6,N
+258,Testere 4,Warner Bros.,Fall,4,10,2007,10/26/2007,4033158,525005,Darren Lyn bousman,Horror,9,N
+259,Neşeli Ayaklar,Warner Bros.,Winter,1,1,2007,1/26/2007,3538617,453395,George Miller,Animation,3,N
+260,Beynelmilel,KenD.,Winter,1,12,2006,12/29/2006,3141775,431696,Muharrem Gülmez,Comedy,4,N
+261,Altın Pusula,MVZ.,Winter,1,12,2007,12/7/2007,3576536,443229,Chris Weitz,Adventure,2,N
+262,Transformers,UIP.,Summer,3,7,2007,7/6/2007,3227582,409055,Michael Bay,Science - Fiction ,12,N
+263,Kutsal Damacana,Özen.,Winter,1,12,2007,12/20/2007,4514747,627855,Kamil aydın,Comedy,4,N
+264,Pars: Kiraz Operasyonu,UIP.,Spring,2,4,2007,4/20/2007,2721328,379818,Osman sınav,Crime,5,N
+265,Amerikalılar Karadeniz'de 2,KenD.,Winter,1,1,2007,1/26/2007,2824915,379744,Kartal Tibet,Comedy,4,N
+266,Kanlı Elmas,Warner Bros.,Winter,1,2,2007,2/2/2007,3177788,376623,Edward Zwick,Adventure,2,N
+267,Arı Filmi,UIP.,Winter,1,12,2007,12/14/2007,3570616,464487,Steve hickner,Animation,3,N
+268,Deja Vu,UIP.,Winter,1,1,2007,1/5/2007,2957559,345479,Tony Scott,Science - Fiction ,12,N
+269,Ocean's 13,Warner Bros.,Summer,3,6,2007,6/8/2007,2907275,340425,Steven Sodenberg,Crime,5,N
+270,Ratatouille,UIP.,Summer,3,8,2007,8/24/2007,2650508,334154,Brad Bird,Animation,3,N
+271,Hayalet Sürücü,Warner Bros.,Winter,1,2,2007,2/16/2007,2499125,311683,Mark Steven johnson,Fantasy,7,N
+272,Kurtlar Vadisi: Irak,KenD.,Winter,1,2,2006,2/3/2006,27434893,4256567,Serdar Akar,Action,1,Y
+273,Babam ve Oğlum,Özen.,Fall,4,11,2005,11/18/2005,25470085,3839883,Çağan Irmak,Drama,6,Y
+274,"Hababam Sınıfı 3,5",Özen.,Winter,1,1,2006,1/6/2006,12952669,2068165,Ferdi Eğilmez,Comedy,4,Y
+275,Organize İşler,KenD.,Winter,1,12,2005,12/23/2005,17180298,2618244,Yılmaz Erdoğan,Comedy,4,Y
+276,Hokkabaz,KenD.,Fall,4,10,2006,10/20/2006,12985183,1710212,Cem yılmaz,Drama,6,Y
+277,Sınav,Özen.,Fall,4,10,2006,10/20/2006,7927300,1161226,Osman sınav,Drama,6,Y
+278,Da Vinci Şifresi,Warner Bros.,Spring,2,5,2006,5/19/2006,7466333,1028928,Ron Howard,Crime,5,Y
+279,Karayip Korsanları: Ölü Adamın Sandığı,UIP.,Summer,3,7,2006,7/14/2006,7182112,1005052,Gore Verbinski,Fantasy,7,Y
+280,Keloğlan Kara Prens'e Karşı,KenD.,Winter,1,1,2006,1/6/2006,6517326,997238,Tayfun Güneğer,Comedy,4,N
+281,Buz Devri 2: Erime Başlıyor,Özen.,Spring,2,4,2006,4/14/2006,6224368,949380,Carlos Saldanha,Animation,3,N
+282,Hacivat Karagöz Neden Öldürüldü?,KenD.,Winter,1,2,2006,2/17/2006,4233546,649746,Ezel Akay,Comedy,4,N
+283,Dabbe,Özen.,Winter,1,2,2006,2/10/2006,3308372,539381,Hasan Karacadağ,Horror,9,N
+284,Testere 3,Warner Bros.,Fall,4,11,2006,11/3/2006,3676933,505571,Darren Lyn Bousman,Horror,9,N
+285,Dondurmam Gaymak,Özen.,Fall,4,11,2006,11/24/2006,4591560,636823,Yüksel Aksu,Comedy,4,N
+286,"Narnia Günlükleri: Aslan, Cadı ve Dolap",UIP.,Winter,1,1,2006,1/13/2006,3280736,467181,Andrew Adamson,Adventure,2,N
+287,Görevimiz Tehlike 3,UIP.,Spring,2,5,2006,5/5/2006,2836359,382553,J. J. Abrams,Action,1,N
+288,Garfield 2,Özen.,Summer,3,8,2006,8/18/2006,2433833,357822,Tim Hill,Comedy,4,N
+289,Arabalar,UIP.,Fall,4,9,2006,9/15/2006,2376114,328802,John Lasseter,Animation,3,N
+290,Temel İçgüdü 2,UNP.,Spring,2,3,2006,3/31/2006,2090646,291036,Michael Caton-Jones,Thriller,13,N
+291,Takva,Özen.,Winter,1,12,2006,12/1/2006,2490837,349530,Özer Kızıltan,Drama,6,N
+292,Beyza'nın Kadınları,UIP.,Spring,2,3,2006,3/17/2006,1789520,272560,Mustafa Altıoklar,Drama,6,N
+293,Poseidondan Kaçış,Warner Bros.,Summer,3,6,2006,6/23/2006,1878212,258958,Wolfgang Petersen,Adventure,2,N
+294,İlk Aşk,MVZ.,Fall,4,11,2006,11/17/2006,2004867,268499,Nihat Durak,Drama,6,N
+295,Köstebek (2006),Warner Bros.,Fall,4,11,2006,11/24/2006,2556945,303652,Martin Scorcese,Crime,5,N
+296,Dünyayı Kurtaran Adamın Oğlu,Warner Bros.,Winter,1,12,2006,12/15/2006,3102917,451260,Kartal Tibet,Comedy,4,N
+297,Casino Royale,Warner Bros.,Fall,4,11,2006,11/17/2006,2198276,255734,Martin Campbell,Action,1,N
